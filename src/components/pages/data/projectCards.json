@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "cardname": "Grocer-E",
+    "image": "https://user-images.githubusercontent.com/83773208/133362950-57b48ef4-906c-4371-8602-0a40b3ef0ff3.png",
+    "livelink": "https://ortizbootcamp.github.io/PROJECT1-GROCERYLIST/",
+    "codelink": "https://github.com/ortizbootcamp/PROJECT1-GROCERYLIST"
+  },
+  {
+    "id": 2,
+    "cardname": "Work Day Planner",
+    "image": "https://user-images.githubusercontent.com/87348683/134446882-77e2fcb4-5174-4219-8f57-f1643049a34e.png",
+    "livelink": "https://kkaisan.github.io/PlanningTheDay/",
+    "codelink": "https://github.com/KKaisan/PlanningTheDay"
+  },
+  {
+    "id": 3,
+    "cardname": "Weather Dashboard",
+    "image": "https://user-images.githubusercontent.com/87348683/132614183-481ff8e2-92d5-452d-86cf-6ae49faffa29.PNG",
+    "livelink": "https://kkaisan.github.io/weather-dashboard/",
+    "codelink": "https://github.com/KKaisan/weather-dashboard"
+  }
+]
